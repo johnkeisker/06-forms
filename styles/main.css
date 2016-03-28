@@ -1,11 +1,26 @@
 /* Base*/
-
+body {
+  background-color: #5BA3D6;
+}
 
 
 /* Layout*/
+.column1 {
+  width: 150px;
+  margin-right: 80px;
+  float: left;
+}
+.column2 {
+  width: 150px;
 
-
-/* Modules*/ 
+  float: left;
+}
+.column3.clearfix {
+  width: 150px;
+  margin-left: 50px;
+  float: right;
+}
+/* Modules*/
 
 
 
