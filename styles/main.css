@@ -1,34 +1,33 @@
 /* Base*/
+
 body {
   background-color: #5BA3D6;
 }
 
-
 /* Layout*/
-.column1 {
-  width: 150px;
-  margin-right: 80px;
-  float: left;
-}
-.column2 {
-  width: 150px;
 
+.container1 {
+  width: 100px;
+  margin-right: 100px;
   float: left;
 }
-.column3.clearfix {
-  width: 150px;
+.container2 {
+  width: 100px;
+  margin-left: 70px;
+  float: left;
+}
+.clearfix {
+  width: 100px;
+  margin-left: 300px;
+  float: right;
+}
+.container3 {
+  width: 100px;
   margin-left: 50px;
   float: right;
 }
+
 /* Modules*/
-
-
-
-
-
-
-
-
 
 
 /* State*/
