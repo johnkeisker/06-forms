@@ -1,33 +1,29 @@
 /* Base*/
 
 body {
+  width: 980px;
   background-color: #5BA3D6;
 }
 
 /* Layout*/
 
 .container1 {
-  width: 100px;
-  margin-right: 100px;
+  /*margin: 20px 10px 0 20px;*/
   float: left;
 }
 .container2 {
-  width: 100px;
-  margin-left: 70px;
+  /*margin: 20px 10px 0 20px;*/
   float: left;
 }
-.clearfix {
-  width: 100px;
-  margin-left: 300px;
-  float: right;
-}
+
 .container3 {
-  width: 100px;
-  margin-left: 50px;
+  /*margin: 20px 0 0 10px;*/
   float: right;
 }
 
 /* Modules*/
+label {
 
+}
 
 /* State*/
