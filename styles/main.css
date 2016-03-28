@@ -8,22 +8,23 @@ body {
 /* Layout*/
 
 .container1 {
-  /*margin: 20px 10px 0 20px;*/
+
+
   float: left;
 }
 .container2 {
-  /*margin: 20px 10px 0 20px;*/
+
   float: left;
 }
 
 .container3 {
-  /*margin: 20px 0 0 10px;*/
+
   float: right;
 }
 
 /* Modules*/
-label {
 
-}
+
+
 
 /* State*/
