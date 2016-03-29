@@ -35,9 +35,9 @@ input {
 select {
   font-size: 1.2rem;
   height: 30px;
-  width: 300px;
+  width: 314px;
   background-color: #55a4dd;
-  border: 2px solid white;
+  border: 2px solid lightgray;
   border-radius: 3px;
   color: white;
   padding: 5px 0 5px 10px;
@@ -51,20 +51,20 @@ select {
 
 
 /* Layout*/
-.container1 {
-width: 150px;
-margin-left: 20px;
-margin-right: 20px;
+/*.container1 {
+padding-top: 20px;
 float: left;
 }
 .container2 {
-  width: 150px;
+  padding-top: 20px;
   margin-left: 20px;
   float: right;
 }
 .container3 {
-
-}
+padding-top: 20px;
+margin-left: 20px;
+float: right;
+}*/
 
 /* Modules*/
 .forms {
@@ -72,19 +72,20 @@ float: left;
 
 }
 .column1 {
-  width: 100%;
+  width: 30%;
   margin-top: 20px;
   margin-left: 20px;
+  float: left;
 }
 .column2 {
-  width: 100%;
+  width: 30%;
   margin-top: 20px;
-  float: right;
+  float: left;
 }
 .column3 {
-  width: 100%;
+  width: 30%;
   margin-top: 20px;
-  float: right;
+  float: left;
 }
 .form-item {
   margin: 0 0 20px 0;
